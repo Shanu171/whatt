@@ -6,3 +6,5 @@ y = 10
 print(x)
 print(y)
 #check new line
+
+d = {1:2,3:4}
